@@ -10,6 +10,4 @@ I am Prachurjya<br>A curious developer  from Assam<br>currently learning skills<
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=prasu6451&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
